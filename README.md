@@ -2,16 +2,16 @@
 
 <p align="center">
   <img 
-    src="https://img.shields.io/badge/React-%5E18.2.6-blue" 
-    alt="React Ver. ^18.2.0"
+    src="https://img.shields.io/badge/React-18.2.6-blue" 
+    alt="React Ver. 18.2.0"
   />
    <img 
-    src="https://img.shields.io/badge/NextJS-%5E13.4.2-black" 
-    alt="NextJS Ver. ^13.4.2"
+    src="https://img.shields.io/badge/NextJS-13.5.2-black" 
+    alt="NextJS Ver. 13.5.2"
   />
   <img 
-    src="https://img.shields.io/badge/Typescript-%5E5.0.4-blue"
-    alt="Typescript Ver. 5.0.4" 
+    src="https://img.shields.io/badge/Typescript-5.2.2-blue"
+    alt="Typescript Ver. 5.2.2" 
   />
   <img
     src="https://img.shields.io/badge/Ignite-2023-green" 
@@ -35,11 +35,11 @@
 
 <h3 align="center">Imagem prévia da aplicação: Dark mode</h3>
 
-![cover](.github/project-preview-dark.png?style=flat)
+![cover](.github/project-preview-darkmode.png?style=flat)
 
 <h3 align="center">Imagem prévia da aplicação: Padrão</h3>
 
-![cover](.github/project-preview-light.png?style=flat)
+![cover](.github/project-preview-default.png?style=flat)
 
 <br>
 
