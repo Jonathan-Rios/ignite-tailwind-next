@@ -99,26 +99,22 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) pa
 <h3>Exemplo de descrição </h3>
 
 ```bash
- 
-  ➜ npx create-next-app@latest
-    ✔ What is your project named? … ignite-tailwind-next
-    ✔ Would you like to use TypeScript? … No / Yes
-    ✔ Would you like to use ESLint? … No / Yes
-    ✔ Would you like to use Tailwind CSS? … No / Yes
-    ✔ Would you like to use `src/` directory? … No / Yes
-    ✔ Would you like to use App Router? (recommended) … No / Yes
-    ✔ Would you like to customize the default import alias? … No / Yes
-    ✔ What import alias would you like configured? … @/*
-
+    ➜ npx create-next-app@latest
+      ✔ What is your project named? … ignite-tailwind-next
+      ✔ Would you like to use TypeScript? … No / Yes
+      ✔ Would you like to use ESLint? … No / Yes
+      ✔ Would you like to use Tailwind CSS? … No / Yes
+      ✔ Would you like to use `src/` directory? … No / Yes
+      ✔ Would you like to use App Router? (recommended) … No / Yes
+      ✔ Would you like to customize the default import alias? … No / Yes
+      ✔ What import alias would you like configured? … @/*
 
     ➜ npm i @rocketseat/eslint-config -D
     # No ".eslintrc.json" adicione junto das configs existentes essa configuração: "@rocketseat/eslint-config/next"  
     # Ficando assim: "extends": [...(outras), "@rocketseat/eslint-config/next"}
 
-
     ➜ npm install prettier prettier-plugin-tailwindcss -D
     # Crie e configure do zero o arquivo prettier.config.js
-
 
     ➜ npm install @formkit/auto-animate
     ➜ npm install framer-motion
@@ -129,15 +125,12 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) pa
     ➜ npm install @radix-ui/react-slot
     ➜ npm install @radix-ui/react-tabs
 
-   
     ➜ npm install lucide-react
      
     ➜ npm install react-world-flags
     ➜ npm install tailwind-merge
     ➜ npm install tailwind-variants
- 
-```****
-
+```
 
 <br />
 
